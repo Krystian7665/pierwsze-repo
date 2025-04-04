@@ -38,7 +38,7 @@ def reset_ui():
     start_button.config(text="Start", command=start_timer, state="normal")
     time_label.config(text="Czas trwania: -")
 
-# GUI
+#dhdhdhddhsdsdsdsds
 root = tk.Tk()
 root.title("Rejestrator czasu")
 
